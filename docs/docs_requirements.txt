@@ -4,7 +4,7 @@ celery==3.1.8
 Django==1.6.2
 django-guardian==1.1.1
 django-json-field==0.5.5
-djangorestframework==2.3.12
+djangorestframework==3.9.1
 dop==0.1.4
 etcd==2.0.1
 paramiko==1.12.1
