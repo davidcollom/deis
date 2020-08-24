@@ -9,7 +9,7 @@ dop==0.1.4
 etcd==2.0.1
 paramiko==1.12.1
 pyrax==1.6.2
-PyYAML==3.10
+PyYAML==5.1
 
 # Deis client requirements
 docopt==0.6.1
